@@ -124,3 +124,5 @@ gems:
     - jekyll-gist
 gist:
     noscript: false
+
+theme: jekyll-theme-slate
